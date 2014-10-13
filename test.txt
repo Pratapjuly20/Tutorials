@@ -1,0 +1,2 @@
+Adding into file through nano editor
+To commit into git.
